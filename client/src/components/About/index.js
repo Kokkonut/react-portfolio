@@ -15,6 +15,7 @@ const styles = {
     },
     right: {
         minWidth: '75%',
+        marginTop: '60px',
     }
     }
 
