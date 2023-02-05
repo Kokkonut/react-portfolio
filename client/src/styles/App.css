@@ -1,38 +1,40 @@
-.App {
+.global-padding {
+  padding:  20px;
+};
+
+.global-margin {
+  margin:  20px;
+};
+.margin-top {
+  margin-top:  200px;
+};
+.heading {
+  background-color: #000000;
+  color: #ffffff;
   text-align: center;
+  text-shadow: #000000;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+/* import React from "react";
+
+
+const styles = {
+container: {
+    marginTop: '80px',
+    display: 'flex',
+}
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+const About = () => {
+    return (
+<div style={styles.container}>
+    <div className="left"><h1>About me</h1></div>
+    <div className="right"><h1>right</h1></div>
+</div>
+    );
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+export default About; */
