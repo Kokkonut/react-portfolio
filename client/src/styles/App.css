@@ -15,6 +15,9 @@
   text-shadow: #000000;
 }
 
+.test {
+  list-style: none;
+}
 
 
 /* import React from "react";

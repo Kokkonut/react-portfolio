@@ -15,6 +15,7 @@ const styles = {
         border: '1px solid black',
         overflow: 'hidden',
         textAlign: 'center',
+        backgroundColor: 'rgb(244, 242, 242)',
     },
     right: {
         minWidth: '75%',
