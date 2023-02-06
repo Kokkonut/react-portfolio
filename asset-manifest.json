@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kokkonut/react-portfolio/static/css/main.3cf13b54.css",
-    "main.js": "/kokkonut/react-portfolio/static/js/main.db8ceb00.js",
-    "static/js/787.1ed0c42c.chunk.js": "/kokkonut/react-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/resume.pdf": "/kokkonut/react-portfolio/static/media/resume.e981ca425196e92f4dbf.pdf",
-    "index.html": "/kokkonut/react-portfolio/index.html",
-    "main.3cf13b54.css.map": "/kokkonut/react-portfolio/static/css/main.3cf13b54.css.map",
-    "main.db8ceb00.js.map": "/kokkonut/react-portfolio/static/js/main.db8ceb00.js.map",
-    "787.1ed0c42c.chunk.js.map": "/kokkonut/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "./static/css/main.3cf13b54.css",
+    "main.js": "./static/js/main.3e9d6af5.js",
+    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/resume.pdf": "./static/media/resume.e981ca425196e92f4dbf.pdf",
+    "index.html": "./index.html",
+    "main.3cf13b54.css.map": "./static/css/main.3cf13b54.css.map",
+    "main.3e9d6af5.js.map": "./static/js/main.3e9d6af5.js.map",
+    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cf13b54.css",
-    "static/js/main.db8ceb00.js"
+    "static/js/main.3e9d6af5.js"
   ]
 }
