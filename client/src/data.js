@@ -2,7 +2,7 @@ export const portfolio = [
     {
         id: 1,
         title: "React Portfolio",
-        img: "https://i.imgur.com/m6ujoBk.jpeg",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "You guessed it, this is the portfolio you're looking at right now!",
         github: "https://github.com/Kokkonut/react-portfolio",
         deployed: "https://nfraenkel1.github.io/weather-dashboard/",
@@ -10,7 +10,7 @@ export const portfolio = [
     {
         id: 2,
         title: "Work Day Scheduler",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "A simple calendar application that allows a user to save events for each hour of the day.",
         github: "https://github.com/Kokkonut/Work-Day-Scheduler",
         deployed: "https://kokkonut.github.io/Work-Day-Scheduler/",
@@ -18,7 +18,7 @@ export const portfolio = [
     {
         id: 9,
         title: "Readme Generator",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.",
         github: "https://github.com/Kokkonut/Readme-maker",
         deployed: "",
@@ -26,7 +26,7 @@ export const portfolio = [
     {
         id: 8,
         title: "Team Profile Generator",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
         github: "https://github.com/Kokkonut/team-profile-generator",
         deployed: "",
@@ -34,7 +34,7 @@ export const portfolio = [
     {
         id: 7,
         title: "E-Commerce Back End",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "The back end for an e-commerce site. This application will configure a working Express.js API to use Sequelize to interact with a MySQL database.",
         github: "https://github.com/Kokkonut/E-com-back-end",
         deployed: "",
@@ -42,7 +42,7 @@ export const portfolio = [
     {
         id: 6,
         title: "Employee Tracker",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "A Content Management System (CMS) solution for managing a company's employees using node, inquirer, and MySQL.",
         github: "https://github.com/Kokkonut/Employee-Tracker",
         deployed: "",
@@ -50,7 +50,7 @@ export const portfolio = [
     {
         id: 5,
         title: "Note Taker",
-        img: "https://i.imgur.com/4ZQZ9Zu.png",
+        img: "https://user-images.githubusercontent.com/79061264/128788540-8e283ee1-e149-465a-a453-e29007bed829.png",
         description: "This is a single-page text editor that runs in a browser and meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application is deployed on Heroku and also functions offline. It has the following interface:",
         github: "https://github.com/Kokkonut/txt-editor-pwa",
         deployed: "https://jate-kokkonut.herokuapp.com/",

@@ -18,8 +18,15 @@ const styles = {
     right: {
         minWidth: '75%',
         marginTop: '60px',
-    }
-}
+    },
+
+    catalog: {
+        display: 'flex',
+        flexWrap: 'wrap',
+        justifyContent: 'space-around',
+        gap: "10px"
+},
+};
 
 const Portfolio = () => {
 
@@ -32,7 +39,7 @@ const Portfolio = () => {
                     <Col><div style={styles.left}><h1>portfolio</h1></div></Col>
 
                     <Col style={styles.right}>
-                    <div>                            
+                    <div style={styles.catalog}>                            
                             {data.map((item) => (
                             <PortfolioList
                                 key={item.id}
