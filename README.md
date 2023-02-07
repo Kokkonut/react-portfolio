@@ -12,7 +12,7 @@
   ## Description
 Portfolio page, built with React.
 
-![Screen Shot](/assets/screen.jpeg)
+![Screen Shot](screen.jpeg)
 
 
 [A deployed version can be viewed here.](https://nicolasf-portfolio.herokuapp.com/)
